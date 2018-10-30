@@ -6,7 +6,7 @@
 # catalog-version 001.000
 Name:		texlive-calligra-type1
 Version:	001.000
-Release:	11
+Release:	12
 Summary:	Type 1 version of Caliigra
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/fonts/calligra-type1
