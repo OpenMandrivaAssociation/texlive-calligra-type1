@@ -1,6 +1,6 @@
 Name:		texlive-calligra-type1
 Version:	24302
-Release:	1
+Release:	2
 Summary:	Type 1 version of Caliigra
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/fonts/calligra-type1
