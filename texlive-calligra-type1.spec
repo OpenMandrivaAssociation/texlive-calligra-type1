@@ -3,7 +3,7 @@ Version:	24302
 Release:	2
 Summary:	Type 1 version of Caliigra
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/fonts/calligra-type1
+URL:		https://www.ctan.org/tex-archive/fonts/calligra-type1
 License:	OTHER-FREE
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/calligra-type1.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/calligra-type1.doc.r%{version}.tar.xz
